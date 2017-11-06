@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Address
+comment1.params=addr\ code\ local
+comment1.target=Address(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment3.params=addr
+comment3.target=void\ setAddress(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getLocal()
+comment5.params=local
+comment5.target=void\ setLocal(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getCode()
+comment7.params=code
+comment7.target=void\ setCode(java.lang.String)
+numComments=8
