@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\ InputReader\ reads\ typed\ number\ or\ text\ input\ from\ the\ standard\ text\ terminal.\ \r\n\ The\ text\ or\ number\ typed\ by\ a\ user\ is\ returned.\r\n\ \r\n\ @author\ \ \ \ IPOO\r\n\ @version\ \ \ \ 06/11/2016\r\n
+comment1.params=
+comment1.target=InputReader()
+comment2.params=question
+comment2.target=void\ showFormattedQuestion(java.lang.String)
+comment3.params=question
+comment3.target=double\ getRealNumber(java.lang.String)
+comment4.params=question
+comment4.target=int\ getIntegerNumber(java.lang.String)
+comment5.params=question
+comment5.target=java.lang.String\ getText(java.lang.String)
+numComments=6

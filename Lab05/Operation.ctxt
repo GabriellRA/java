@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Operation
+comment1.params=
+comment1.target=Operation()
+comment2.params=first
+comment2.target=void\ setFirst(int)
+comment3.params=
+comment3.target=int\ getFirst()
+comment4.params=second
+comment4.target=void\ setSecond(int)
+comment5.params=
+comment5.target=int\ getSecond()
+comment6.params=
+comment6.target=int\ add()
+comment7.params=
+comment7.target=int\ subtract()
+comment8.params=
+comment8.target=int\ divide()
+comment9.params=
+comment9.target=int\ multiply()
+numComments=10
