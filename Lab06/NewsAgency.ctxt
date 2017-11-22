@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NewsAgency
+comment1.params=
+comment1.target=NewsAgency()
+comment2.params=n
+comment2.target=void\ addNews(News)
+comment3.params=
+comment3.target=void\ showNewsToReview()
+comment4.params=
+comment4.target=void\ showPublishedNews()
+comment5.params=author
+comment5.target=void\ showNewsByAuthor(java.lang.String)
+numComments=6

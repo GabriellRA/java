@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Editor
+comment1.params=
+comment1.target=Editor()
+comment2.params=email
+comment2.target=Editor(java.lang.String)
+comment3.params=email
+comment3.target=boolean\ verifyEmail(java.lang.String)
+comment4.params=email
+comment4.target=void\ setEmail(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getEmail()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Photo
+comment1.params=pictureName\ caption
+comment1.target=Photo(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getImageFile()
+comment3.params=
+comment3.target=java.lang.String\ getCaption()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

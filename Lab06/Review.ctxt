@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Review
+comment1.params=
+comment1.target=Review()
+comment1.text=public\ Review(){\r\n\ \ \ \ \ \ \ \ date\ \=\ date.now();\r\n\ \ \ \ \ \ \ \ comments\ \=\ new\ String[10];\r\n\ \ \ \ \ \ \ \ numberOfComments\ \=\ 0;\r\n\ \ \ \ \ \ \ \ editor\ \=\ new\ Editor();\r\n}
+comment2.params=
+comment2.target=Editor\ getEditor()
+comment3.params=comment
+comment3.target=void\ addComment(java.lang.String)
+comment4.params=
+comment4.target=void\ show()
+numComments=5
